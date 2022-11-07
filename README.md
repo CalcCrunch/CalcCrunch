@@ -2,5 +2,5 @@
 - Title: Software Engineer, 1 YOE
 - Company: Bloomberg LP
 - Education: B.S. in Mathematics and Economics from UC San Diego
-- Languages: C++, Python, Java
+- Languages: C++, Python, Java, TypeScript, SQL
 - Experience developing Low-Latency Trading Systems in Linux environment, background in probability/statistics and fixed income products
