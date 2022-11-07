@@ -1,4 +1,4 @@
-# Hello
+# Hello 👋🏿
 - Title: Software Engineer, 1 YOE
 - Company: Bloomberg LP
 - Education: B.S. in Mathematics and Economics from UC San Diego
