@@ -1,5 +1,5 @@
 # Hello
-- Title: Junior Dev, 1 YOE
+- Title: Software Engineer, 1 YOE
 - Company: Bloomberg LP
 - Education: B.S. in Mathematics and Economics from UC San Diego
 - Languages: C++, Python, Java
